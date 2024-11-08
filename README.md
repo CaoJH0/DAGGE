@@ -1,0 +1,2 @@
+# DAGGE
+Detecting_forest_growth_Anomaly_using_Gaussian_mixed_model_with_Expectation_algorithm
